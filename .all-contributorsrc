@@ -27,7 +27,8 @@
       "contributions": [
         "design",
         "bug",
-        "infra"
+        "infra",
+        "test"
       ]
     }
   ],
