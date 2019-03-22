@@ -26,7 +26,8 @@
       "profile": "http://www.tylerbenning.com",
       "contributions": [
         "design",
-        "bug"
+        "bug",
+        "infra"
       ]
     }
   ],
