@@ -28,7 +28,8 @@
         "design",
         "bug",
         "infra",
-        "test"
+        "test",
+        "projectManagement"
       ]
     }
   ],
