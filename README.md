@@ -6,7 +6,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://jakebolam.com"><img src="https://avatars2.githubusercontent.com/u/3534236?v=4" width="100px;" alt="Jake Bolam"/><br /><sub><b>Jake Bolam</b></sub></a><br /><a href="#infra-jakebolam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/all-contributors-sandbox/test-all-contributors/commits?author=jakebolam" title="Tests">⚠️</a> <a href="#projectManagement-jakebolam" title="Project Management">📆</a></td></tr></table>
+<table><tr><td align="center"><a href="https://jakebolam.com"><img src="https://avatars2.githubusercontent.com/u/3534236?v=4" width="100px;" alt="Jake Bolam"/><br /><sub><b>Jake Bolam</b></sub></a><br /><a href="#infra-jakebolam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/all-contributors-sandbox/test-all-contributors/commits?author=jakebolam" title="Tests">⚠️</a> <a href="#projectManagement-jakebolam" title="Project Management">📆</a> <a href="#ideas-jakebolam" title="Ideas, Planning, & Feedback">🤔</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
