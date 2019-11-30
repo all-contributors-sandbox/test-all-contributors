@@ -16,9 +16,11 @@
       "profile": "https://jakebolam.com",
       "contributions": [
         "infra",
-        "test"
+        "test",
+        "a11y"
       ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
